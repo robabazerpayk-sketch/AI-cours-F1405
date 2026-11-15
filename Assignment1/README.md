@@ -12,3 +12,13 @@ Epoch 10: w1=7.0000000000000036, w2=0.0, b=-1.0999999999999999, errors=1
 Epoch 10: w1=7.0000000000000036, w2=-2.5000000000000004, b=1.4999999999999998, errors=2
 Program finished with exit code 0
 Press ENTER to exit console.
+Epoch 1: w1=7.9, w2=0.0, b=0.2, errors=3
+Epoch 2: w1=7.800000000000001, w2=0.0, b=0.0, errors=3
+Epoch 3: w1=7.700000000000001, w2=0.0, b=-0.2, errors=3
+Epoch 4: w1=7.600000000000001, w2=0.0, b=-0.4, errors=2
+Epoch 5: w1=7.500000000000002, w2=0.0, b=-0.6, errors=2
+Epoch 6: w1=7.400000000000002, w2=0.0, b=-0.8, errors=2
+Epoch 7: w1=7.3000000000000025, w2=0.0, b=-1.0, errors=2
+Epoch 8: w1=7.200000000000003, w2=0.0, b=-1.2, errors=1
+Epoch 9: w1=7.100000000000003, w2=0.0, b=-1.4, errors=1
+Epoch 10: w1=7.0000000000000036, w2=0.0, b=-1.6, errors=1
